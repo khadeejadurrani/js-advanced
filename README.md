@@ -1,1 +1,1 @@
-# js-advanced
+# smit class assignments
